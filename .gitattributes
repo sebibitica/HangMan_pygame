@@ -1,1 +1,2 @@
-*.pyw linguist-language=Solidity
+*.html linguist-detectable=false
+*.toc linguist-detectable=false
